@@ -467,10 +467,6 @@
 		"ValueSet/daf-core-narrative-status": {
 			"base": "valueset-daf-core-narrative-status.html",
 			"template-base": null
-		},
-		"AllergyIntolerance/example": {
-			"base": "allergyintolerance-example.html",
-			"template-base": null
 		}
 	}
 }
